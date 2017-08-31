@@ -59,7 +59,7 @@
 		<div id='response' ></div>
 		<form method='post' id='mainform' >
 			<div class='hidden' id='row_template' >
-				<label for='%id%' >Enter Coordinates in format (a,b),(c,d),(e,f),(g,h)</label>
+				<label for='%id%' >Enter Coordinates in format (x1,y1),(x2,y2),......(xn,yn)</label>
 				<input type='text' class='form-control' id='%id%' name='row[]' placeholder='(a,b),(c,d),(e,f),(g,h)' />
 			</div>
 			
